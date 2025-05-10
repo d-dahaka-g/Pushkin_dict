@@ -4,16 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="572eb645-144a-4475-9b12-027f6d9f557f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Pushkin_dict.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/occasionalisms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/словник.json" afterDir="false" />
+    <list default="true" id="572eb645-144a-4475-9b12-027f6d9f557f" name="Changes" comment="(by=By.CLASS_NAME, value='cmlJmd ETWPw') problem">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colours.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test sql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vocab.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/widgets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/СЯП_А-Б — копия.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/СЯП_В-Г — копия.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/словник(а-б).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/словник(в-г).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/словник(д-ж+прил).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/словник(доп о-р).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/словник(з-й).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/словник(н+прилож).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/словник(о-пл).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/словник(по-при).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/словник(про-р).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/словник(с).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/словник(т-х).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/словник(ц-я доп с-я+прилож).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +45,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;d-dahaka-g&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/d-dahaka-g/Pushkin_dict&quot;,
+    &quot;accountId&quot;: &quot;209a9daf-4a12-45c8-9909-fe848a970b09&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.venv/lib/python3.12/site-packages/customtkinter/windows/widgets/ctk_label.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -39,16 +72,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.occasionalisms.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.test2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "full.screen.before.presentation.mode": "false",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.images.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.occasionalisms.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test sql.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -70,6 +106,27 @@
       <option name="presentableId" value="Default" />
       <updated>1744313340958</updated>
     </task>
+    <task id="LOCAL-00001" summary="(by=By.CLASS_NAME, value='cmlJmd ETWPw') problem">
+      <option name="closed" value="true" />
+      <created>1744473417398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744473417398</updated>
+    </task>
+    <task id="LOCAL-00002" summary="(by=By.CLASS_NAME, value='cmlJmd ETWPw') problem">
+      <option name="closed" value="true" />
+      <created>1744473436659</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744473436659</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="(by=By.CLASS_NAME, value='cmlJmd ETWPw') problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="(by=By.CLASS_NAME, value='cmlJmd ETWPw') problem" />
   </component>
 </project>
