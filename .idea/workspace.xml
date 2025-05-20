@@ -4,31 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="572eb645-144a-4475-9b12-027f6d9f557f" name="Changes" comment="(by=By.CLASS_NAME, value='cmlJmd ETWPw') problem">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colours.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test sql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vocab.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/widgets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/СЯП_А-Б — копия.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/СЯП_В-Г — копия.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/словник(а-б).json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/словник(в-г).json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/словник(д-ж+прил).json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/словник(доп о-р).json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/словник(з-й).json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/словник(н+прилож).json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/словник(о-пл).json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/словник(по-при).json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/словник(про-р).json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/словник(с).json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/словник(т-х).json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/словник(ц-я доп с-я+прилож).json" afterDir="false" />
+    <list default="true" id="572eb645-144a-4475-9b12-027f6d9f557f" name="Changes" comment="рыба приложения с двумя вкладками">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main vocabulary sql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/словник(к-м).json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images.py" beforeDir="false" afterPath="$PROJECT_DIR$/images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vocab.db" beforeDir="false" afterPath="$PROJECT_DIR$/vocab.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets.py" beforeDir="false" afterPath="$PROJECT_DIR$/widgets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/словник(а-б).json" beforeDir="false" afterPath="$PROJECT_DIR$/словник(а-б).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/словник(в-г).json" beforeDir="false" afterPath="$PROJECT_DIR$/словник(в-г).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/словник(д-ж+прил).json" beforeDir="false" afterPath="$PROJECT_DIR$/словник(д-ж+прил).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/словник(доп о-р).json" beforeDir="false" afterPath="$PROJECT_DIR$/словник(доп о-р).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/словник(з-й).json" beforeDir="false" afterPath="$PROJECT_DIR$/словник(з-й).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/словник(н+прилож).json" beforeDir="false" afterPath="$PROJECT_DIR$/словник(н+прилож).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/словник(о-пл).json" beforeDir="false" afterPath="$PROJECT_DIR$/словник(о-пл).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/словник(по-при).json" beforeDir="false" afterPath="$PROJECT_DIR$/словник(по-при).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/словник(про-р).json" beforeDir="false" afterPath="$PROJECT_DIR$/словник(про-р).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/словник(с).json" beforeDir="false" afterPath="$PROJECT_DIR$/словник(с).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/словник(т-х).json" beforeDir="false" afterPath="$PROJECT_DIR$/словник(т-х).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/словник(ц-я доп с-я+прилож).json" beforeDir="false" afterPath="$PROJECT_DIR$/словник(ц-я доп с-я+прилож).json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,20 +74,56 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.images.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main vocabulary sql.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.occasionalisms.executor&quot;: &quot;Run&quot;,
     &quot;Python.test sql.executor&quot;: &quot;Run&quot;,
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;Python.test2.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dariagarusova/PycharmProjects/pythonProject4&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Python&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pushkin_dict" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -122,11 +157,20 @@
       <option name="project" value="LOCAL" />
       <updated>1744473436659</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="рыба приложения с двумя вкладками">
+      <option name="closed" value="true" />
+      <created>1746869311590</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746869311590</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="(by=By.CLASS_NAME, value='cmlJmd ETWPw') problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="(by=By.CLASS_NAME, value='cmlJmd ETWPw') problem" />
+    <MESSAGE value="рыба приложения с двумя вкладками" />
+    <option name="LAST_COMMIT_MESSAGE" value="рыба приложения с двумя вкладками" />
   </component>
 </project>
